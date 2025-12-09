@@ -34,7 +34,7 @@ The notebook is designed to run in a Jupyter environment and provides detailed p
 
 ---
 
-## 🛠 Requirements
+## Requirements
 
 The notebook requires the following Python libraries:
 
